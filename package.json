@@ -1,0 +1,25 @@
+{
+  "name": "bitcoin-developer-document",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve": "honkit serve",
+    "build": "honkit build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cc822jp/bitcoin-developer-document.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cc822jp/bitcoin-developer-document/issues"
+  },
+  "homepage": "https://github.com/cc822jp/bitcoin-developer-document#readme",
+  "devDependencies": {
+    "honkit": "^3.7.1",
+    "honkit-plugin-theme-darkening": "^1.0.3"
+  }
+}
