@@ -1,6 +1,6 @@
 # Summary
 
 - Developer Guides
-  - [Block Chain](devguide/BLOCKCHAIN.md)
+  - [Block Chain](devguide/blockchain.md)
   - [transactions](devguide/transactions.md)
 - [GLOSSARY](GLOSSARY.md)

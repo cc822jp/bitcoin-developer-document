@@ -19,7 +19,6 @@
   },
   "homepage": "https://github.com/cc822jp/bitcoin-developer-document#readme",
   "devDependencies": {
-    "honkit": "^3.7.1",
-    "honkit-plugin-theme-darkening": "^1.0.3"
+    "honkit": "^3.7.1"
   }
 }
